@@ -1,6 +1,6 @@
 <?php
 
-    $dbHost = 'Localhost:3312';
+    $dbHost = 'Localhost:8000';
     $dbUsername = 'root';
     $dbPassword = '';
     $dbName = 'formulario-jefte';
